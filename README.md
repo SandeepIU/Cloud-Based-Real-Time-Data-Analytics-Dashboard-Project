@@ -55,8 +55,7 @@ Redis Cache (fast access to recent data)
 
   *Visualize:* Live updates **→** React Dashboard via SignalR
 
-
-#Use Cases
+***Use Cases***
 
 
 **Industrial Applications**
