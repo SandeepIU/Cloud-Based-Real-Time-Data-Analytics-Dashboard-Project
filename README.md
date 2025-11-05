@@ -1,4 +1,3 @@
-<img width="561" height="201" alt="Azure Dashboard drawio" src="https://github.com/user-attachments/assets/df80dde6-e521-44c2-a583-eeb91ca46981" />
 # Cloud-Based-Real-Time-Data-Analytics-Dashboard-Project
 
 This project delivers a cloud-native, real-time analytics platform built on Microsoft Azure that processes high-velocity industrial data streams with sub-30-second latency. By leveraging cutting-edge serverless architecture and real-time processing capabilities, we bridge the gap between data generation and actionable insights.
@@ -105,3 +104,6 @@ python-dotenv==1.0.0
 
   -Azure App Service
 
+  ***System Architecture***
+  
+<img width="561" height="201" alt="Azure Dashboard drawio" src="https://github.com/user-attachments/assets/df80dde6-e521-44c2-a583-eeb91ca46981" />
