@@ -55,24 +55,24 @@ Redis Cache (fast access to recent data)
 
   *Visualize:* Live updates **→** React Dashboard via SignalR
 
-***🎯 Use Cases***
+*** Use Cases***
 
 **Industrial Applications**
 
 
-  *🏭 Predictive Maintenance* - Early detection of equipment failures
+  * Predictive Maintenance* - Early detection of equipment failures
 
 
-  *🔧 Production Monitoring* - Real-time factory operations tracking
+  * Production Monitoring* - Real-time factory operations tracking
 
 
-  *⚡ Energy Management* - Power consumption optimization
+  * Energy Management* - Power consumption optimization
 
 
-  *📦 Supply Chain Tracking* - Live logistics monitoring
+  *Supply Chain Tracking* - Live logistics monitoring
 
 
-  *🌡️ Environmental Monitoring* - Safety and compliance tracking
+  * Environmental Monitoring* - Safety and compliance tracking
 
 
 **Dependencies**
