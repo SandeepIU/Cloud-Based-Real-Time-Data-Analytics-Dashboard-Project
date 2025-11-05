@@ -53,3 +53,50 @@ Redis Cache (fast access to recent data)
 
 *Visualize:* Live updates **→** React Dashboard via SignalR
 
+***🎯 Use Cases***
+
+**Industrial Applications**
+
+
+*🏭 Predictive Maintenance* - Early detection of equipment failures
+
+
+*🔧 Production Monitoring* - Real-time factory operations tracking
+
+
+*⚡ Energy Management* - Power consumption optimization
+
+
+*📦 Supply Chain Tracking* - Live logistics monitoring
+
+
+*🌡️ Environmental Monitoring* - Safety and compliance tracking
+
+
+**Dependencies**
+
+*Backend* - 
+azure-eventhub==5.11.2
+azure-identity==1.15.0
+aiohttp==3.9.1
+python-dotenv==1.0.0
+
+*Frontend* -
+{
+  "react": "^18.2.0",
+  "typescript": "^4.9.0",
+  "chart.js": "^4.4.0",
+  "@microsoft/signalr": "^7.0.0"
+}
+
+***Azure Services***
+-Azure Event Hubs
+
+-Azure Stream Analytics
+
+-Azure Synapse Analytics
+
+-Azure SignalR Service
+
+-Azure App Service
+
