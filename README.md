@@ -13,7 +13,7 @@ This project delivers a cloud-native, real-time analytics platform built on Micr
 
 **Data Storage:**
 
-
+fdf gdg
 Azure Synapse Analytics (historical data warehouse)
 
 Redis Cache (fast access to recent data)
